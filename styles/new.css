@@ -286,8 +286,15 @@
     width: 1600px;
     height: 610px;
     background: #070211;
+    color: #FFF;
 }
 .finish{
-    color: #FFF;
+    width: 600px;
+    height: 80px;
     display: flex;
 }
+.finish>div>p{
+    padding: 100px;
+}
+
+    
