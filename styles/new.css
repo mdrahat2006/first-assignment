@@ -149,7 +149,7 @@
 
 .new-div {
     width: 1500px;
-    height: 7335px;
+    height: 560px;
     display: flex;
 
 }
@@ -211,4 +211,35 @@
 .banner-3>img {
     width: 140px;
     height: 140px;
+}
+.port{
+    width: 1600px;
+    height: 735px;
+}
+
+.style {
+    width: 890px;
+    height: 64px;
+    padding-bottom: 200px;
+}
+
+.style>h4 {
+    color: #F00;
+    font-size: 24px;
+}
+
+.style>h2 {
+    color: #070211;
+    font-size: 48px;
+    padding-bottom: -80px;
+}
+
+.style>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+.img-style>img{
+    width: 400px;
+    height: 420px;
+    padding: 10px;
 }
